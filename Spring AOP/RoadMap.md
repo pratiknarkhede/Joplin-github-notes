@@ -1,0 +1,1 @@
+<img src="../_resources/c1474dca229960acc9937311252ed18a.png" alt="c1474dca229960acc9937311252ed18a.png" width="847" height="1610">

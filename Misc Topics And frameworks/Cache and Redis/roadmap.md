@@ -1,0 +1,8 @@
+- Caching Basics: Fundamental concepts and types of caching.
+- Spring Boot Caching Abstraction: How to use Spring's caching annotations and configure caching.
+- Caffeine Cache: Configuring and using Caffeine as an in-memory cache.
+- Introduction to Redis: Core Redis concepts and data structures.
+- Redis with Spring Boot: Integrating and using Redis in a Spring Boot application.
+- Advanced Redis Concepts: More complex Redis features and architectures.
+- Performance Considerations and Best Practices: Guidelines for effective caching.
+- Small Project: A practical application of the concepts learned.

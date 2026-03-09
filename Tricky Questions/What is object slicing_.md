@@ -1,0 +1,2 @@
+Object slicing occurs when a subclass object is assigned to a superclass reference, and subclass-specific fields/methods are **sliced off**.  
+In Java, it's not a concern like in C++, but **polymorphism limits access** to subclass features.

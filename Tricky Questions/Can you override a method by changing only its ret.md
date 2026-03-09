@@ -1,0 +1,1 @@
+No. Return type alone is **not enough** to distinguish overloaded methods or override them.
